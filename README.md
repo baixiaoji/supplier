@@ -1,2 +1,2 @@
-# supplier
-It's the source!
+# SUPPLIER
+> “不耻最后”。即使慢，驰而不息，纵会落后，纵会失败，但一定可以达到他所向的目标
